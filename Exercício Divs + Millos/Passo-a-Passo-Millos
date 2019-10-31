@@ -1,0 +1,17 @@
+Chamar tag body no style.css e tirar margin
+    margin: 0 auto;
+Adicionar divs com imagens (ricardinTM e ricardinTabajara)
+Ajustar o tamanho das divs de imagem (width na div, width na imagem)
+Dentro da section, display: flex
+Usar justify-content na section
+
+EXTRA (para testar)
+Usar flex-direction
+Usa align-self direto no elemento filho
+
+
+Medidas
+Grid
+Flexbox
+Exercícios
+Editar o repositório no computador

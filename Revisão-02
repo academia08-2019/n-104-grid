@@ -1,0 +1,37 @@
+COMANDOS 
+mkdir
+cd
+    nome da pasta/diretório
+    cd ..
+ls
+pwd
+
+GITHUB
+git clone
+git push
+git status
+git add 
+    .
+    nome do arquivo
+git config
+    sem --global em computadores públicos
+git init 
+git diff
+git log
+
+HTML
+tag semântica
+metadados
+    caracteres especiais
+lang=pt-br
+ie-edge (funcionar no internet explore)
+viewport (responsividade de acordo com dispositivo)
+link com o arquivo
+title
+
+CSS
+tag
+class (.)
+id (#)
+background-color
+background-image

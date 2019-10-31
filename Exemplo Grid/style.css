@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-areas: "header header header header header"
+                         "main main main . sidebar" /* ligado com o nome grid-area */ 
+                         "main main main . sidebar"
+                        "footer footer footer footer footer";
+    grid-template-columns: repeat(5, 20vw);
+    grid-template-rows: repeat(4, 25vh);
+}
+
+header {
+    grid-area: header;
+    background-color: red;
+}
+
+main {
+    grid-area: main;
+    background-color: purple;
+}
+
+aside {
+    grid-area: sidebar;
+    background-color: red;
+}
+
+footer {
+    grid-area: footer;
+    background-color: black;
+}
